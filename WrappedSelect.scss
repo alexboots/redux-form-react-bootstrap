@@ -1,0 +1,12 @@
+.wrapped-select {
+
+  &.has-error {
+
+    .Select {
+      // ensure that the error border wraps just the input
+      clear: both;
+    }
+
+  }
+
+}

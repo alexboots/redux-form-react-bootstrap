@@ -1,0 +1,23 @@
+.wrapped-button-group {
+  .btn {
+    color: $mid-gray-3;
+    background: $dark-gray-2;
+    &:hover {
+      color: $white;
+    }
+  }
+  .btn:focus {
+    color: $white;
+    background: $dark-gray-2;
+  }
+  .btn.active {
+    color: $white;
+    background: $blue;
+  }
+  .btn.active:focus {
+    background: $blue;
+  }
+  .btn.active:hover {
+    background: $blue;
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "redux-form-react-bootstrap",
+  "version": "1.0.0",
+  "description": "Easily use react-bootstrap and react-select inside redux-form's Field component",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexboots/redux-form-react-bootstrap.git"
+  },
+  "keywords": [
+    "react-bootstrap",
+    "redux-form",
+    "react-select",
+    "react",
+    "form"
+  ],
+  "author": "alex, steve, jakkoo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alexboots/redux-form-react-bootstrap/issues"
+  },
+  "homepage": "https://github.com/alexboots/redux-form-react-bootstrap#readme"
+}
